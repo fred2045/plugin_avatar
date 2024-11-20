@@ -8,6 +8,11 @@
 - clone或下载本仓库源代码到[chatgpt-on-wechat](https://github.com/zhayujie/chatgpt-on-wechat)的plugins文件夹中
 - 启动chatgpt-on-wechat，即可自动加载并启用本插件
 
+### 基于[godcmd插件](https://github.com/zhayujie/chatgpt-on-wechat/tree/master/plugins/godcmd)安装
+- `#auth <口令>`
+- `#installp https://github.com/fred2045/plugin_avatar.git`
+- `#scanp`
+
 ## 其他
 - 依赖itchat，新注册的账号需要做实名认证。
 - 任何想法、建议、需求、问题等，欢迎加微信交流：fred2025，备注avatar。
