@@ -11,7 +11,7 @@ from config import conf
 
 @plugins.register(
     name="avatar",
-    desire_priority=-1,
+    desire_priority=99,
     hidden=True,
     desc="A simple plugin that make new avatar",
     version="0.1",
